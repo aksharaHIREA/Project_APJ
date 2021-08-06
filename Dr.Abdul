@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>APJ Abdul Kalam</title></head>
+<style>
+body{
+background-image: url('src/img/india flag.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}   
+img{
+border: 3px solid rgb(9, 81, 190);
+} 
+h1{
+color: rgb(72, 255, 0);    
+}
+</style>
+<marquee><h1><em>APJ Abdul Kalam </em></h1></marquee>
+<body>
+<center>
+<img src="src/img/DR..jpg" width="350" height="300">
+</center>
+<blockquote><h1><cite> APJ Abdul Kamal : missiom story</cite></h1></blockquote>
+<pre>    
+<ins><mark>Dr.APJ Abdul Kalam</mark>,popularly known as the Missile Man of<mark> India</mark> was born on <mark>15 October 1931</mark> in <mark>Rameswaram,Tamil Nadu.Dr.Kalam</mark> life is a great motivation.</ins><br>  
+<ins>For several pepole especially for young student you may be required to deliver speech on<mark> APJ Abdul Kalam</mark>> at various occasions.</ins><br>
+<ins>We have shared some sample speech on<mark>APJ Abdul Kalam</mark>  which would help you in your attempt.</ins><br>   
+</pre>  
+<center>
+<img src="src/img/apj.jpg" width="350" height="300">
+</center>
+<blockquote><h1><cite> APJ Abdul Kamal : thought </cite></h1></blockquote>
+<pre>
+<ins>I am not a Handsome guy but I can give my hand-to-some one who needs.beauty is in the heart not in the face Abdul Kalam.</ins>
+</pre>
+<center>
+<img src="src/img/Dr. Kalam.jpg" width="350" height="200">
+</center>
+<blockquote><h1><cite> Speech on A.P.J Abdul Kalam </cite></h1></blockquote>
+<pre>
+<ins><mark>Dr.APJ Abdul Kalam</mark> was a great <mark>scientist</mark>,an ideal teacher and the<mark> president of India</mark>>.</ins>
+<ins>His full name was<mark>Dr.Avul Pakir Jainaulabdin Abdul Kalam</mark>.</ins>
+</pre>
+<center>
+<h1><em>APJ Abdul Kalam </em></h1>    
+</center>
+<center>
+<img src="src/img/Kalam.jpg" width="850" height="600">
+</center>
+</body>
+<center>
+<a href="https://github.com/aksharaHIREA">visit to my github</a>    
+</center>
+</html> 
