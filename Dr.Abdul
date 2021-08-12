@@ -3,7 +3,7 @@
 <head><title>APJ Abdul Kalam</title></head>
 <style>
 body{
-background-image: url('src/img/india flag.jpg');
+background-image: url('src/img/India.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%;
@@ -18,7 +18,7 @@ color: rgb(72, 255, 0);
 <marquee><h1><em>APJ Abdul Kalam </em></h1></marquee>
 <body>
 <center>
-<img src="src/img/DR..jpg" width="350" height="300">
+<img src="src/img/dr.jpg" width="350" height="300">
 </center>
 <blockquote><h1><cite> APJ Abdul Kamal : missiom story</cite></h1></blockquote>
 <pre>    
@@ -27,14 +27,14 @@ color: rgb(72, 255, 0);
 <ins>We have shared some sample speech on<mark>APJ Abdul Kalam</mark>  which would help you in your attempt.</ins><br>   
 </pre>  
 <center>
-<img src="src/img/apj.jpg" width="350" height="300">
+<img src="src/img/APJ.jpg" width="350" height="300">
 </center>
 <blockquote><h1><cite> APJ Abdul Kamal : thought </cite></h1></blockquote>
 <pre>
 <ins>I am not a Handsome guy but I can give my hand-to-some one who needs.beauty is in the heart not in the face Abdul Kalam.</ins>
 </pre>
 <center>
-<img src="src/img/Dr. Kalam.jpg" width="350" height="200">
+<img src="src/img/Kalam.jpg" width="350" height="200">
 </center>
 <blockquote><h1><cite> Speech on A.P.J Abdul Kalam </cite></h1></blockquote>
 <pre>
@@ -45,7 +45,7 @@ color: rgb(72, 255, 0);
 <h1><em>APJ Abdul Kalam </em></h1>    
 </center>
 <center>
-<img src="src/img/Kalam.jpg" width="850" height="600">
+<img src="src/img/Abdul.jpg" width="850" height="600">
 </center>
 </body>
 <center>
