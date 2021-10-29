@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><title>APJ Abdul Kalam</title></head>
+<head>
+       <title>APJ Abdul Kalam</title>
+</head>
 <style>
 body{
 background-image: url('src/img/India.jpg');
@@ -15,23 +17,23 @@ h1{
 color: rgb(72, 255, 0);    
 }
 </style>
-<marquee><h1><em>APJ Abdul Kalam </em></h1></marquee>
+<marquee><h1><em>APJ Abdul Kalam</em></h1></marquee>
 <body>
 <center>
 <img src="src/img/dr.jpg" width="350" height="300">
 </center>
-<blockquote><h1><cite> APJ Abdul Kamal : missiom story</cite></h1></blockquote>
+<blockquote><h1><cite> APJ Abdul Kamal : Mission Story</cite></h1></blockquote>
 <pre>    
-<ins><mark>Dr.APJ Abdul Kalam</mark>,popularly known as the Missile Man of<mark> India</mark> was born on <mark>15 October 1931</mark> in <mark>Rameswaram,Tamil Nadu.Dr.Kalam</mark> life is a great motivation.</ins><br>  
+<ins><mark>Dr.APJ Abdul Kalam</mark> popularly known as the Missile Man of <mark> India</mark> was born on <mark>15 October 1931</mark> in <mark>Rameswaram,Tamil Nadu.Dr.Kalam</mark> life is a great motivation.</ins><br>  
 <ins>For several pepole especially for young student you may be required to deliver speech on<mark> APJ Abdul Kalam</mark>> at various occasions.</ins><br>
-<ins>We have shared some sample speech on<mark>APJ Abdul Kalam</mark>  which would help you in your attempt.</ins><br>   
+<ins>We have shared some sample speech on<mark>APJ Abdul Kalam</mark> which would help you in your attempt.</ins><br>   
 </pre>  
 <center>
 <img src="src/img/APJ.jpg" width="350" height="300">
 </center>
-<blockquote><h1><cite> APJ Abdul Kamal : thought </cite></h1></blockquote>
+<blockquote><h1><cite> APJ Abdul Kamal : Thoughts</cite></h1></blockquote>
 <pre>
-<ins>I am not a Handsome guy but I can give my hand-to-some one who needs.beauty is in the heart not in the face Abdul Kalam.</ins>
+<ins>I am not a Handsome guy but I can give my hand-to-some one who needs. Beauty is in the heart not in the face Abdul Kalam.</ins>
 </pre>
 <center>
 <img src="src/img/Kalam.jpg" width="350" height="200">
